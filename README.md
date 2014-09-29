@@ -1,4 +1,4 @@
 CoderByte
 =========
 
-Risoluzione esercizi sito coderbyte.com
+Risoluzione esercizi sito coderbyte.com in Javascript.
